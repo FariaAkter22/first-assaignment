@@ -66,14 +66,26 @@ background:  #276749;
     border-radius: 20px;
     font-size: 14px;
  }
- .banner h1{
+ .banner h4{
     font-weight: 700px;
-    font-size: 72px;
+    font-size: 65px;
+    line-height: 84px;
     margin: 20px 0;
  }
- .banner h1 span{
+ /* .banner h5{
+    font-weight: 700px;
+    font-size: 65px;
+    margin: 20px 0;
+    line-height: 84px;
     color:#30B868 ;
- }
+ } */
+  .banner h4 span{
+    font-weight: 700px;
+    font-size: 65px;
+    margin: 20px 0;
+    line-height: 84px;
+    color:#30B868 ;
+ } 
  .banner-btn{
     margin-top: 32px;
     display: flex;
