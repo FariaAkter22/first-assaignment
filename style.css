@@ -289,13 +289,13 @@ height: 228px;
     padding-top: 10px;
  }
  .container-item{
-    padding-top: 10px;
+    padding-top: 11px;
     gap: 26px;
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
-    
+
  }
  .container-item p{
     color: var(--#627382, rgba(98, 115, 130, 1));
